@@ -15,4 +15,4 @@ MAINTAINER darachm
 
 %test
 
-    /usr/bin/bwa
+    # ?
